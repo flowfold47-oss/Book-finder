@@ -203,3 +203,33 @@ reviewForm.onsubmit = e=>{
 </body>
 </html>
 
+<section id="featured-books">
+  <h2 class="text-3xl font-bold mb-6">Featured Origami Books</h2>
+  <div class="grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+    <div class="bg-white dark:bg-slate-800 p-4 rounded shadow">
+      <h3 class="font-semibold text-xl">Works of Satoshi Kamiya</h3>
+      <p class="text-sm">A collection of intricate origami models by Satoshi Kamiya, including step-by-step diagrams and photographs.</p>
+      <a href="https://archive.org/details/satoshikamiyaworks19952003" class="text-indigo-600 hover:underline">View on Internet Archive</a>
+    </div>
+    <div class="bg-white dark:bg-slate-800 p-4 rounded shadow">
+      <h3 class="font-semibold text-xl">Origami for Everyone</h3>
+      <p class="text-sm">Features 68 origami projects suitable for all skill levels, with clear instructions and illustrations.</p>
+      <a href="https://archive.org/details/origamiforeveryo0000bour" class="text-indigo-600 hover:underline">Read the Book</a>
+    </div>
+    <div class="bg-white dark:bg-slate-800 p-4 rounded shadow">
+      <h3 class="font-semibold text-xl">New Generation of Ultimate Origami 2</h3>
+      <p class="text-sm">Advanced origami techniques and models, showcasing the evolution of origami artistry.</p>
+      <a href="https://archive.org/details/new-generation-of-ultimate-origami-2-makoto-yamaguchi" class="text-indigo-600 hover:underline">Access the Book</a>
+    </div>
+    <div class="bg-white dark:bg-slate-800 p-4 rounded shadow">
+      <h3 class="font-semibold text-xl">Advanced Origami</h3>
+      <p class="text-sm">Detailed instructions for creating master-level 3D origami models from nature.</p>
+      <a href="https://archive.org/details/advancedorigamia0000lafo_l0x4" class="text-indigo-600 hover:underline">Explore the Book</a>
+    </div>
+    <div class="bg-white dark:bg-slate-800 p-4 rounded shadow">
+      <h3 class="font-semibold text-xl">Origami Omnibus</h3>
+      <p class="text-sm">Over 150 origami models, including animals, flowers, and geometric shapes, with comprehensive instructions.</p>
+      <a href="https://archive.org/details/origamiomnibus00kuni" class="text-indigo-600 hover:underline">View on Internet Archive</a>
+    </div>
+  </div>
+</section>
